@@ -5,9 +5,9 @@ class BookList extends Component {
         return (
             <div className='book-list'>
                 <ul>
-                    <li>BBC1</li>
-                    <li>BBC2</li>
-                    <li>ITV</li>
+                    <li>Of Mice and Men</li>
+                    <li>Johnny Cash - The Autobiography</li>
+                    <li>Nowhere Boy</li>
                 </ul>
             </div>
         );
